@@ -24,6 +24,7 @@ build/
 *.cache
 *.lock
 .pnpm-debug.log
+/tokens
 # IDEs e editores
 .vscode/
 .idea/
